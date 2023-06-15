@@ -1,0 +1,6 @@
+id.ac.umn.wemenseller.test.app-annotation-experimental-1.3.0-0 C:\Users\62812\.gradle\caches\transforms-3\6e86879046ed574dd32bba39638dd88f\transformed\annotation-experimental-1.3.0\res
+id.ac.umn.wemenseller.test.app-core-1.5.0-1 C:\Users\62812\.gradle\caches\transforms-3\b49fc7ee6b0e860d3eca2a7b27e67af6\transformed\core-1.5.0\res
+id.ac.umn.wemenseller.test.app-androidTest-2 C:\Users\62812\AndroidStudioProjects\UAS_WemenSeller-master\app\build\generated\res\resValues\androidTest\debug
+id.ac.umn.wemenseller.test.app-mergeDebugAndroidTestResources-3 C:\Users\62812\AndroidStudioProjects\UAS_WemenSeller-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+id.ac.umn.wemenseller.test.app-mergeDebugAndroidTestResources-4 C:\Users\62812\AndroidStudioProjects\UAS_WemenSeller-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+id.ac.umn.wemenseller.test.app-merged_res-5 C:\Users\62812\AndroidStudioProjects\UAS_WemenSeller-master\app\build\intermediates\merged_res\debugAndroidTest

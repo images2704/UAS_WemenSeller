@@ -1,0 +1,13 @@
+#Thu Jun 15 16:55:10 WIB 2023
+base.0=C\:\\Users\\62812\\AndroidStudioProjects\\UAS_WemenSeller-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\62812\\AndroidStudioProjects\\UAS_WemenSeller-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\62812\\AndroidStudioProjects\\UAS_WemenSeller-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\14\\classes.dex
+base.3=C\:\\Users\\62812\\AndroidStudioProjects\\UAS_WemenSeller-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=14/classes.dex
+path.3=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

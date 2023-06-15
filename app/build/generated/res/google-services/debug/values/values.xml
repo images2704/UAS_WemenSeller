@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">929646317123-otna7kv5lk4ipoaoc3ie052b624fl10p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">929646317123</string>
+    <string name="google_api_key" translatable="false">AIzaSyAO_xF-YiUEmhYBhbo4IczcK-so3GKnsOc</string>
+    <string name="google_app_id" translatable="false">1:929646317123:android:9cd9c28c0f88d387758ef6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAO_xF-YiUEmhYBhbo4IczcK-so3GKnsOc</string>
+    <string name="google_storage_bucket" translatable="false"></string>
+    <string name="project_id" translatable="false">wemenseller</string>
+</resources>

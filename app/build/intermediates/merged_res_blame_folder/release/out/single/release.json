@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_lele_goreng.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/lele_goreng.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable-v24_cart.png.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable-v24/cart.png"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_nasi_ayam_telur_asin.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/nasi_ayam_telur_asin.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_menu_detail.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_menu_detail.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_iga_penyet.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/iga_penyet.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_nasi_karaage.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/nasi_karaage.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_item_records.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/item_records.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_menu.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_detail_cart.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_detail_cart.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_crepe_eskrim.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/crepe_eskrim.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_sushi_sepuluh.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/sushi_sepuluh.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_krim.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_krim.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_nasi_goreng.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/nasi_goreng.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_coca_cola.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/coca_cola.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_ayam_goreng.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/ayam_goreng.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_susu_cimory.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/susu_cimory.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_nasi_mentai.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/nasi_mentai.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_bebek_kremes.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/bebek_kremes.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_salad_sayur.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/salad_sayur.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_nasi_padang.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/nasi_padang.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_kopi_susu.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/kopi_susu.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_air_prima.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/air_prima.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_item_menu.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/item_menu.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_tee.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_tee.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_kelapa_muda.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_kelapa_muda.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_air_mineral.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/air_mineral.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_register.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_sprite_250ml.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/sprite_250ml.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_gurame_mercon.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/gurame_mercon.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_chicken_wrap.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/chicken_wrap.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_teh_pucuk.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/teh_pucuk.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_jus_buavita.jpg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/jus_buavita.jpg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_ayam_geprek.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/ayam_geprek.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/layout_activity_cart.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_soda_gembira.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_soda_gembira.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable-v24_logout.png.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable-v24/logout.png"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_teh.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_teh.jpeg"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.ac.umn.wemenseller.app-merged_res-35:/drawable_es_jeruk.jpeg.flat",
+        "source": "id.ac.umn.wemenseller.app-main-36:/drawable/es_jeruk.jpeg"
+    }
+]

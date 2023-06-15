@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="appTitle">Wemenseller</string>
+    <string name="app_name">Aplikasi Pesan Makanan</string>
+    <string name="close">Close</string>
+    <string name="default_web_client_id" translatable="false">929646317123-otna7kv5lk4ipoaoc3ie052b624fl10p.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="email">Email</string>
+    <string name="fabCart">View Cart</string>
+    <string name="fabLogout">Log out of the app.</string>
+    <string name="gcm_defaultSenderId" translatable="false">929646317123</string>
+    <string name="google_api_key" translatable="false">AIzaSyAO_xF-YiUEmhYBhbo4IczcK-so3GKnsOc</string>
+    <string name="google_app_id" translatable="false">1:929646317123:android:9cd9c28c0f88d387758ef6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAO_xF-YiUEmhYBhbo4IczcK-so3GKnsOc</string>
+    <string name="google_storage_bucket" translatable="false"/>
+    <string name="log_in">LOG IN</string>
+    <string name="notHaveAccount">Don\'t have an account?</string>
+    <string name="order">Order</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">wemenseller</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_cart_detail">Cart Detail</string>
+    <string name="title_login">Login</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_menu_detail">Menu Detail</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="total">Total</string>
+    <style name="Theme.AplikasiPesanMakanan" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
