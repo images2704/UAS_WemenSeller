@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929646317123",
+    "project_id": "wemenseller",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929646317123:android:9cd9c28c0f88d387758ef6",
+        "android_client_info": {
+          "package_name": "id.ac.umn.wemenseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929646317123-otna7kv5lk4ipoaoc3ie052b624fl10p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_xF-YiUEmhYBhbo4IczcK-so3GKnsOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929646317123-otna7kv5lk4ipoaoc3ie052b624fl10p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

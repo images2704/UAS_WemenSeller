@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplikasi Pesan Makanan</string>
+    <string name="title_login">Login</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_cart_detail">Cart Detail</string>
+    <string name="title_menu_detail">Menu Detail</string>
+    <string name="appTitle">Wemenseller</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="notHaveAccount">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="total">Total</string>
+    <string name="order">Order</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="fabCart">View Cart</string>
+    <string name="fabLogout">Log out of the app.</string>
+</resources>
